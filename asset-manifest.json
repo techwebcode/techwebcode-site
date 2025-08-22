@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/techwebcode-site/static/css/main.1b48e7c2.css",
-    "main.js": "/techwebcode-site/static/js/main.e052950e.js",
+    "main.css": "/techwebcode-site/static/css/main.d87054ad.css",
+    "main.js": "/techwebcode-site/static/js/main.8d88cbbe.js",
     "index.html": "/techwebcode-site/index.html",
-    "main.1b48e7c2.css.map": "/techwebcode-site/static/css/main.1b48e7c2.css.map",
-    "main.e052950e.js.map": "/techwebcode-site/static/js/main.e052950e.js.map"
+    "main.d87054ad.css.map": "/techwebcode-site/static/css/main.d87054ad.css.map",
+    "main.8d88cbbe.js.map": "/techwebcode-site/static/js/main.8d88cbbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b48e7c2.css",
-    "static/js/main.e052950e.js"
+    "static/css/main.d87054ad.css",
+    "static/js/main.8d88cbbe.js"
   ]
 }
