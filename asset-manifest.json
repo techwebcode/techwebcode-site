@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techwebcode-site/static/css/main.1b48e7c2.css",
+    "main.js": "/techwebcode-site/static/js/main.e052950e.js",
+    "index.html": "/techwebcode-site/index.html",
+    "main.1b48e7c2.css.map": "/techwebcode-site/static/css/main.1b48e7c2.css.map",
+    "main.e052950e.js.map": "/techwebcode-site/static/js/main.e052950e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b48e7c2.css",
+    "static/js/main.e052950e.js"
+  ]
+}
