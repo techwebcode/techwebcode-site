@@ -1,5 +1,6 @@
 // src/components/ToolCard.js
 import React from "react";
+import PropTypes from "prop-types";
 
 export default function ToolCard({ title, children }) {
   return (
@@ -9,3 +10,8 @@ export default function ToolCard({ title, children }) {
     </div>
   );
 }
+
+ToolCard.propTypes = {
+  title: PropTypes.string.isRequired,
+  children: PropTypes.node
+};
